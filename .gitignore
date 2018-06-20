@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CWUILibrary/CWUILibrary/bin/Debug
+/CWUILibrary/CWUILibrary.Droid/bin/Debug
+/CWUILibrary/CWUILibrary/obj/Debug
+/CWUILibrary/CWUILibrary.Droid/obj
+/CWUILibrary/CWUILibrary.iOS/obj/iPhone/Debug
+/packages
+/.vs
+*.jar
